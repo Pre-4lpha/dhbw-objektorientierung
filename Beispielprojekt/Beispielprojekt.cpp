@@ -32,6 +32,7 @@ public:
 	// Wird 60x pro Sekunde aufgerufen
 	void update() override
 	{
+		hlp
 	}
 };
 
